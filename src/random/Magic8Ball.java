@@ -41,7 +41,7 @@ else if (r==2) {
 	else if (r==3) {
 		JOptionPane.showMessageDialog(null, ("Maybe you should ask Google?"));
 	// -- write your own answer
-		else if (r==4) {
+		 if (r==4) {
 			JOptionPane.showMessageDialog(null, ("Maybe you should ask Google?"));
 }
-}}
+}

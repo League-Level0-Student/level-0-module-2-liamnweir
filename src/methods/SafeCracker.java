@@ -18,10 +18,13 @@ public class SafeCracker {
 		 * Your mission: use the tryCode method to crack the safe by trying all possible
 		 * combinations
 		 */
-		for (int i = 0; i < 9999999; i++) {
-	random
+		int n=0;
+		Random Liam=new Random();
+		n=Liam.nextInt(wekncrzpasfdkjhcfjse);
+		for (int i = 9999899; i < 9999999; i++) {
+	tryCode(i);
 }
-tryCode(i);
+
 
 	}
 
